@@ -1,4 +1,4 @@
-# Corporate-Presentations
+# Corporate-Presentations Synthetic Data Generation Using LLM
 [Synthetic Data Generation Using LLM](https://github.com/Sakil786/Corporate-Presentations/blob/main/Synthetic%20Data%20Generation%20Using%20LLM_final%20.pptx "Synthetic Data Generation Using LLM")
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
